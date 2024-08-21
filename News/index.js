@@ -13,7 +13,7 @@ const newsdetails = document.getElementById("newsdetails");
 // Array
 var newsDataArr = [];
 
-const API_KEY = "cW7-6alvcVbC0_KE6N6MeRFmHiEyNiQvyNfqGz72dK7NE-LK";
+const API_KEY = "YOUR-API-KEY-ID";
 const BASE_URL = "https://api.currentsapi.services/v1/";
 
 // Updated endpoints for Currents API
